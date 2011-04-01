@@ -1,0 +1,10 @@
+\select@language {french}
+\contentsline {section}{\numberline {1}Introduction}{3}{section.2}
+\contentsline {section}{\numberline {2}But de la communication exterieure}{3}{section.3}
+\contentsline {section}{\numberline {3}Mes experiences dans l'associatif}{3}{section.4}
+\contentsline {subsection}{\numberline {3.1}Le ski club}{3}{subsection.5}
+\contentsline {subsection}{\numberline {3.2}L'AEDI}{3}{subsection.6}
+\contentsline {subsection}{\numberline {3.3}Les 24 heures de l'Insa}{3}{subsection.7}
+\contentsline {subsection}{\numberline {3.4}Le BDE}{3}{subsection.8}
+\contentsline {section}{\numberline {4}R\IeC {\'e}sultats et conclusion tir\IeC {\'e} de ces exp\IeC {\'e}riences}{4}{section.9}
+\contentsline {section}{\numberline {5}Portefolio}{4}{section.10}
